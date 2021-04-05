@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodingQuokka
 - 👀 I’m interested in technology and solving problems with it
-- 🌱 I’m currently learning Java, Scala, Flutter
+- 🌱 I’m currently learning Java, Scala and Flutter
 
 <!---
 CodingQuokka/CodingQuokka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
